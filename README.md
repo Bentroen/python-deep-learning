@@ -1,2 +1,3 @@
-# python-rn
- Implementação de redes neurais com backpropagation em Python
+# python-hopfield
+
+Kohonen Map (Self-Organizing Map) implementation using Python
