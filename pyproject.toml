@@ -9,7 +9,11 @@ packages = [{include = "python_kohonen"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 Pillow = "^9.5.0"
-torch = "^2.0.1"
+matplotlib = "^3.7.1"
+ipykernel = "^6.23.1"
+rich = {extras = ["jupyter"], version = "^13.4.1"}
+pandas = "^2.0.2"
+numpy = "^1.25.0"
 
 
 [tool.poetry.group.dev.dependencies]
