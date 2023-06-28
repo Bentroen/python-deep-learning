@@ -14,6 +14,7 @@ ipykernel = "^6.23.1"
 rich = {extras = ["jupyter"], version = "^13.4.1"}
 pandas = "^2.0.2"
 numpy = "^1.25.0"
+scikit-learn = "^1.2.2"
 
 
 [tool.poetry.group.dev.dependencies]
